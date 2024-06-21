@@ -1,0 +1,7 @@
+C:\Users\soumy\source\repos\SlidelyFormsApp\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.vbproj.AssemblyReference.cache
+C:\Users\soumy\source\repos\SlidelyFormsApp\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.CreateSubmissionForm.resources
+C:\Users\soumy\source\repos\SlidelyFormsApp\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.btnViewSubmissions.resources
+C:\Users\soumy\source\repos\SlidelyFormsApp\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.Resources.resources
+C:\Users\soumy\source\repos\SlidelyFormsApp\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.ViewSubmissionsForm.resources
+C:\Users\soumy\source\repos\SlidelyFormsApp\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.vbproj.GenerateResource.cache
+C:\Users\soumy\source\repos\SlidelyFormsApp\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.vbproj.CoreCompileInputs.cache
